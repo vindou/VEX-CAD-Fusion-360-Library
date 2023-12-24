@@ -1,0 +1,8 @@
+- Legacy
+    - Make sure materials and textures are correct
+- New
+    - Make sure materials and textures are correct
+    - Pneumatic cylinders
+        - Fix thread size to 11/64
+        - New model to separate cylinder rod and body
+        - Linear joint constrained to correct actuation length
