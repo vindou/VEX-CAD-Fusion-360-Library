@@ -8,8 +8,8 @@ This parts library is the second iteration of the original [Fusion 360 Library](
 
 ## Fusion 360 Library Contributers
 ### Current Contributers
-- Chang - 5327K
-- Ali - 1353V, 80001B
+- [Chang](https://github.com/vindou) - 5327K
+- [Ali](https://github.com/AliAhmad810) - 1353V, 80001B
 ### Past Contributers
 - Aidan - BUFF
 - George - BUFF
