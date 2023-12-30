@@ -7,7 +7,7 @@
 This parts library is the second iteration of the original [Fusion 360 Library](https://github.com/vindou/VEX-CAD-Fusion-360-Library/releases/tag/v2.0.0). The library features every VRC legal part currently available, and will continue to be updated as new parts get released. 
 
 ### Installation
-To install the parts library, download the zip file and follow this video tutorial. 
+To install the parts library, download the [zip file](https://github.com/vindou/VEX-CAD-Fusion-360-Library/archive/refs/tags/v2.0.0.zip) and follow this video tutorial. 
 
 ### FAQ 
 Click [here](https://github.com/vindou/VEX-CAD-Fusion-360-Library/wiki) to see frequently asked questions about the library.
