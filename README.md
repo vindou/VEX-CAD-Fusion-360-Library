@@ -32,7 +32,7 @@ We're releasing tutorial videos not just for installation, but also for improvin
 
 ## Fusion 360 Library Contributers
 ### Current Contributers
-- [Chang](https://github.com/vindou) - 5327K
+- [Chang](https://github.com/vindou)
 - [Ali](https://github.com/AliAhmad810) - 1353V, 80001B
 ### Past Contributers
 - Aidan - BUFF
