@@ -1,10 +1,10 @@
 # VRC Fusion 360 Library
 ## [Latest Release: 2.0.0](https://github.com/VEX-CAD/VEX-CAD-Fusion/releases/tag/v1.0.0)
 
-This parts library is the second iteration of the original [Fusion 360 Library](https://github.com/VEX-CAD/VEX-CAD-Fusion/releases/tag/v1.0.0). The library features each and every VRC legal part currently available, and will continue to be updated as new parts get released. 
+This parts library is the second iteration of the original [Fusion 360 Library](https://github.com/VEX-CAD/VEX-CAD-Fusion/releases/tag/v1.0.0). The library features every VRC legal part currently available, and will continue to be updated as new parts get released. 
 
 ## Changes
-Most notably, the [Fusion 360 Add-In](https://github.com/vexcad/fusion-library/releases/download/v1.0.0/fusion_addin_1_0_0.zip) is *no longer supported*. There are plans in the future to potentially support the add-in, however that is not currently on the table. In light of this, there are now files for *every length* of structure, similar to the [Inventor library](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/tag/v1.4.0).
+Most notably, the [Fusion 360 Add-In](https://github.com/vexcad/fusion-library/releases/download/v1.0.0/fusion_addin_1_0_0.zip) is *no longer supported*, however there are plans to re-implement the add-in in the future. There are now files for *every length* of structure, similar to the [Inventor library](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/tag/v1.4.0).
 
 [You can view the full changelog here](https://github.com/vindou/VEX-CAD-Fusion-Library/blob/main/changelog.md)
 
