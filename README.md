@@ -7,7 +7,7 @@ This parts library is the second iteration of the original [Fusion 360 Library](
 To install the parts library, download the zip file and follow this video tutorial. 
 
 ### [Changes](https://github.com/vindou/VEX-CAD-Fusion-Library/blob/main/changelog.md)
-Most notably, the [Fusion 360 Add-In](https://github.com/vexcad/fusion-library/releases/download/v1.0.0/fusion_addin_1_0_0.zip) is ==no longer supported== , however there are plans to re-implement the add-in in the future. 
+Most notably, the [Fusion 360 Add-In](https://github.com/vexcad/fusion-library/releases/download/v1.0.0/fusion_addin_1_0_0.zip) is *no longer supported*, however there are plans to re-implement the add-in in the future. 
 
 There are now files for *every length* of structure, similar to the [Inventor library](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/tag/v1.4.0), and all motion pieces that support inserts now have individual files for every type of insert, including no insert.
 
