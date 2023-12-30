@@ -6,6 +6,9 @@ This parts library is the second iteration of the original [Fusion 360 Library](
 ## Changes
 [You can view the full changelog here](https://github.com/vindou/VEX-CAD-Fusion-Library/blob/main/changelog.md)
 
+## VEX CAD Discord
+If you need more help, or would like assistance from experienced users, please ask in our [Discord server](https://discord.gg/BKV3DJm)!
+
 ## Fusion 360 Library Contributers
 ### Current Contributers
 - [Chang](https://github.com/vindou) - 5327K
