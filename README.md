@@ -9,6 +9,9 @@ This parts library is the second iteration of the original [Fusion 360 Library](
 ### Installation
 To install the parts library, download the zip file and follow this video tutorial. 
 
+## FAQ 
+Click [here](https://github.com/vindou/VEX-CAD-Fusion-360-Library/wiki) to see frequently asked questions about the library.
+
 ### Changes
 Most notably, the [Fusion 360 Add-In](https://github.com/vexcad/fusion-library/releases/download/v1.0.0/fusion_addin_1_0_0.zip) is *no longer supported*, however there are plans to re-implement the add-in in the future. 
 
