@@ -9,7 +9,7 @@ This parts library is the second iteration of the original [Fusion 360 Library](
 ### Installation
 To install the parts library, download the zip file and follow this video tutorial. 
 
-## FAQ 
+### FAQ 
 Click [here](https://github.com/vindou/VEX-CAD-Fusion-360-Library/wiki) to see frequently asked questions about the library.
 
 ### Changes
