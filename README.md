@@ -8,6 +8,8 @@ Most notably, the [Fusion 360 Add-In](https://github.com/vexcad/fusion-library/r
 
 There are now files for *every length* of structure, similar to the [Inventor library](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/tag/v1.4.0), and all motion pieces that support inserts now have individual files for every type of insert, including no insert.
 
+Additionally, every available length for spacers, screws, and standoffs are now available. 
+
 [You can view the full changelog here](https://github.com/vindou/VEX-CAD-Fusion-Library/blob/main/changelog.md)
 
 ## VEX CAD Discord
