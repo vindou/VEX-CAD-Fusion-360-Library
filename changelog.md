@@ -1,4 +1,10 @@
 # Changelog
+
+## Version 2.0.1
+#### Motion
+- Added low strength and high strength shafts.
+- Relocated all pneumatic folders and files to be one level higher and deleted the `need_to_finish.txt` file. 
+
 ## Version 2.0.0
 
 In version 2.0.0 we've reorganized the folders that files are grouped into, so now we have 5 folders: Electronics, Field Elements, Hardware, Motion, and Structure. We've also stopped supporting the add-in from version 1.0.0, so motion components will come in separate files with all the different inserts, and structure as well as hardware components will come in every length possible. 
