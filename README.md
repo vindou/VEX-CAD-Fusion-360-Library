@@ -2,12 +2,12 @@
 
 ---
 
-## [Latest Release: 2.0.0](https://github.com/vindou/VEX-CAD-Fusion-360-Library/releases/tag/v2.0.0)
+## [Latest Release: 2.0.1](https://github.com/vindou/VEX-CAD-Fusion-360-Library/releases/tag/v2.0.1)
 
-This parts library features every VRC legal part currently available, and will continue to be updated as new parts get released. This library is the second iteration of the original [Fusion 360 Library](https://github.com/vindou/VEX-CAD-Fusion-360-Library/releases/tag/v2.0.0).
+This parts library features every VRC legal part currently available, and will continue to be updated as new parts get released. This library is the second iteration of the original Fusion 360 Library.
 
 ### Installation
-To install the parts library, download the [zip file](https://github.com/vindou/VEX-CAD-Fusion-360-Library/archive/refs/tags/v2.0.0.zip) and follow this [video tutorial](https://www.youtube.com/watch?v=DhSNF_7SHcA). 
+To install the parts library, download the [zip file](https://github.com/vindou/VEX-CAD-Fusion-360-Library/archive/refs/tags/v2.0.1.zip) and follow this [video tutorial](https://www.youtube.com/watch?v=DhSNF_7SHcA). 
 
 ### FAQ 
 Click [here](https://github.com/vindou/VEX-CAD-Fusion-360-Library/wiki) to see frequently asked questions about the library.
