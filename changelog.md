@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 2.0.2
+#### Field Elements
+- Moved Over Under field elements to an `Over Under` folder
+- Added field elements for VRC High Stakes
+
 ## Version 2.0.1
 #### Motion
 - Added low strength and high strength shafts.
