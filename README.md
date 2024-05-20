@@ -2,7 +2,7 @@
 
 ---
 
-## [Latest Release: 2.0.1](https://github.com/vindou/VEX-CAD-Fusion-360-Library/releases/tag/v2.0.1)
+## [Latest Release: 2.0.2](https://github.com/vindou/VEX-CAD-Fusion-360-Library/releases/tag/latest
 
 This parts library features every VRC legal part currently available, and will continue to be updated as new parts get released. This library is the second iteration of the original Fusion 360 Library.
 
