@@ -21,17 +21,16 @@ Additionally, every available length for spacers, screws, and standoffs are now 
 
 [You can view the full changelog here](https://github.com/vindou/VEX-CAD-Fusion-Library/blob/main/changelog.md)
 
----
 
 ## VEX CAD Discord
 If you need more help, or would like assistance from experienced users, please ask in our [Discord server](https://discord.gg/BKV3DJm)!
 
----
+
 
 ## Tutorial Series
-We're releasing tutorial videos not just for installation, but also for improving your Fusion 360 workflow as well! You can view the playlist [here](https://www.youtube.com/playlist?list=PLN_ka0LWpSJf474OWfNfmNJszKDayiT1O) as we continue to release new videos.
+[Stratford Robotics](https://www.youtube.com/@StratfordRobotics29295) has put out some great tutorials for Fusion 360, so please be sure to watch them!
 
----
+
 
 ## Fusion 360 Library Contributors
 ### Current Contributors
