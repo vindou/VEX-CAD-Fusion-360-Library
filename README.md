@@ -34,8 +34,8 @@ If you need more help, or would like assistance from experienced users, please a
 
 ## Fusion 360 Library Contributors
 ### Current Contributors
-- [Chang](https://github.com/vindou)
-- [Ali](https://github.com/aliuahma) - 1353V, 80001B
+Currently, no one is working on updating the library. If you would like to contribute, join the [Discord server](https://discord.gg/BKV3DJm), and message the server leadership.
+
 ### Past Contributors
 - Aidan - BUFF
 - George - BUFF
@@ -43,3 +43,5 @@ If you need more help, or would like assistance from experienced users, please a
 - Jess - EZ
 - Justin - 3018E
 - Yuanyang - 1721G
+- [Chang](https://github.com/vindou) - 5327K, BLRS
+- [Ali](https://github.com/aliuahma) - 1353V, 80001B
